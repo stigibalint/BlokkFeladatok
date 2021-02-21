@@ -1,0 +1,39 @@
+body {}
+
+#kulso {
+    text-align: center;
+    width: 12cm;
+    height: 12cm;
+    background-color: red;
+    position: absolute;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%)
+}
+
+#kozepso {
+    position: absolute;
+    width: 8cm;
+    height: 8cm;
+    background-color: green;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%)
+}
+
+#belso {
+    position: absolute;
+    width: 4cm;
+    height: 4cm;
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%)
+}
